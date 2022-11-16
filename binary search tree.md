@@ -31,21 +31,20 @@ son olarak 2 yi 3 ün soluna yerleştiriyoruz.
 
 
 
-                        7                        root satırı
+                             7                        root satırı
 
-                    /       \
+                         /       \
 
-               5               8                1. Düğüm 
+                     5               8                1. Düğüm 
 
-            /       \               \
+                 /       \               \
 
-       1              6               9        2. Düğüm 
-
-    /       \
-
- 
- 0            3                              3. Düğüm 
+             1              6               9        2. Düğüm 
 
             /       \
 
-          2              4                        4. Düğüm 
+          0            3                              3. Düğüm 
+
+                    /       \
+
+                2              4                        4. Düğüm 
