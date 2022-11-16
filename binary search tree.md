@@ -42,7 +42,8 @@ son olarak 2 yi 3 ün soluna yerleştiriyoruz.
        1              6               9        2. Düğüm 
 
     /       \
-0              3                                3. Düğüm 
+
+   0            3                              3. Düğüm 
 
             /       \
 
